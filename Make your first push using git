@@ -1,0 +1,66 @@
+Upload your first project on github with me.
+
+ 1 .   Download Git on your desktop
+
+1.  Make a github account
+2. Go to github and create a new repo With name you want
+3. Set it public or private and add a readme file.
+4. There is a gitignore option present there \\ It ignores unnecessary files not needed on github.
+5. Select it based on the project you are uploading on the github.
+6. In this demo we are uploading a unity project so select unity from the options or type it.
+7. Now click on create repository. 
+
+---
+
+---
+
+---
+
+---
+
+---
+
+Now using the esiest  way.
+
+1. Now open git bash and run the following commands
+
+ a) git config —global [user.name](http://user.name) “Your github username”
+
+ b) git config —global [user.email](http://user.email) “Your github email”
+
+ 2.  Clone the repo we created earlier
+
+ 3.  Copy the line that from code section on github that says something like https://
+
+ 4.  Paste it in git bash after writing git clone “Code you copied”
+
+ 5.  A new folder will be created on the desktop.
+
+ 6. Go to the folder or project that you want to upload to github.
+
+ 7. Copy everything and paste it in newly created folder
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+1. Open newly created folder and open gitbash in there.
+2. Now use the following commands.
+3. git add .  \\ Adds all the files 
+4. git status \\ to check status
+5. git commit -m “First Commit” \\ to commit the changes we made
+6. git push \\ To finally upload the file from local PC  to github
+
+ 7.  A new menu will appear to sign in to github sign in using browser
+
+ 8.  Wait for a minute and your files will start to upload. 
+
+   ######### Congrats !!!!!You just uploaded your first project to the github. #####
